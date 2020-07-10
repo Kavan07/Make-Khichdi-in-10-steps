@@ -1,1 +1,1 @@
-# Make-Khichdi-in-10-steps
+This project is about making an indian-gujarati dish "Khichdi". It is a traditional food of gujarat. It is easy to make and easy to digest. Gujaratis includes khichdi as a part of daily meal. It can be made with various types. Curd, buttermilk and pickles are goofd combination with khichdi.
